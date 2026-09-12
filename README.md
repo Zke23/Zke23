@@ -8,7 +8,7 @@
 
 **Computer Science Student (Junior)**
 
-## Quick Summary
+## Personal
 
 </div>
 
@@ -16,9 +16,9 @@
 | **Sports** : Active Wrester for **Loras College** | <br>
 | **Interests** : Coding Projects utilizing grahpics libraries such as **OpenGL/SDL** | <br>
 
-### 🛠️ Technical Skills & Languages
-
 <div align="center">
+
+### Technical Skills & Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -31,6 +31,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
-
-
 </div>
+
+<div align="center">
+
+## Current Learning Goals 
+
+- Expand programming kowledge and skills
+- Become Better at utilizing common programming enviroments
+
+## Projects
+
+- Graphics Rasterizer 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=More+comming+soon&color=1B365D&background=00000000&width=500&height=50)](https://git.io/typing-svg)
+
