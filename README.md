@@ -11,6 +11,6 @@
 ## Quick Summary
 
 
-| **Education** : Junior pursuing a B.S> in Computer Science|
-| **Sports** : Active Wrester for **Loras College** |
-| **Interests** : Projects utilizing grahpics libraries like **OpenGL/SDL**|
+| **Education** : Junior pursuing a B.S> in Computer Science| <br>
+| **Sports** : Active Wrester for **Loras College** | <br>
+| **Interests** : Projects utilizing grahpics libraries like **OpenGL/SDL**| <br>
