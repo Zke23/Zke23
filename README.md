@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Ezekiel+Arnold&color=1B365D&background=00000000&width=500&height=50)](https://git.io/typing-svg)
 
-<h2><font color="#1B365D">About Me</font></h2>
+<h2>About Me</h2>
 
-**Computer Science Student** @ *<font color="#461D7C"><b>Loras</b></font> <font color="#FFC72C"><b>College</b></font>* (Junior)
+![Loras](https://img.shields.io/badge/Loras-461D7C?style=for-the-badge&logoColor=white) ![College](https://img.shields.io/badge/College-FFC72C?style=for-the-badge&labelColor=461D7C&color=FFC72C)
+
+**Computer Science Student (Junior)**
 
 ## Quick Summary
 
