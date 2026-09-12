@@ -37,8 +37,8 @@
 
 ## Current Learning Goals 
 </div>
-- Expand programming kowledge and skills
-- Become Better at utilizing common programming enviroments
+- Expand programming kowledge and skills <br>
+- Become Better at utilizing common programming enviroments <br>
 
 <div align="center">
 
@@ -48,3 +48,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=More+comming+soon&color=1B365D&background=00000000&width=500&height=50)](https://git.io/typing-svg)
 
+<div align="center">
+
+## Social / Contact
+</div>
+
+## School Email <br>
+ea571190@loras.edu <br>
+## Personal Email <br>
+nsdq1160@outlook.com <br>
