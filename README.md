@@ -50,10 +50,9 @@
 
 <div align="center">
 
-## Social / Contact
-</div>
+###  Contact
 
-## School Email <br>
-ea571190@loras.edu <br>
-## Personal Email <br>
-nsdq1160@outlook.com <br>
+[![Loras Email](https://img.shields.io/badge/Loras_Email-ea571190%40loras.edu-461D7C?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ea571190@loras.edu)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-nsdq1160%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nsdq1160@outlook.com)
+
+</div>
