@@ -6,5 +6,12 @@
 
 </div>
 
-<p>I am currently a junior student at Loras college pursuing a bachelors degree in computer science. Some hobbies outside of programming of my include: wrestling, reading, and spending time with family. 
+**Computer Science Student** @ *Loras College* (Junior)
 
+## Quick Summary
+
+| | |
+| :--- | :---|
+| **Education** | Junior pursuing a B.S> in Computer Science|
+| **Sports** | Active Wrester for **Loras College** |
+| **Interests** | Projects using utilizing grahpics libraries like **OpenGL/SDL**|
