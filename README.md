@@ -36,12 +36,14 @@
 <div align="center">
 
 ## Current Learning Goals 
-
+</div>
 - Expand programming kowledge and skills
 - Become Better at utilizing common programming enviroments
 
-## Projects
+<div align="center">
 
+## Projects
+</div>
 - Graphics Rasterizer 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=More+comming+soon&color=1B365D&background=00000000&width=500&height=50)](https://git.io/typing-svg)
 
