@@ -14,7 +14,7 @@
 
 | **Education** : Junior pursuing a B.S. in Computer Science | <br>
 | **Sports** : Active Wrester for **Loras College** | <br>
-| **Interests** : Coding Projects utilizing grahpics libraries such as **OpenGL/SDL** | <br>
+| **Interests** : Coding Projects utilizing graphics libraries such as **OpenGL/SDL** | <br>
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ## Current Learning Goals 
 </div>
-- Expand programming kowledge and skills <br>
+- Expand programming knowledge and skills <br>
 - Become Better at utilizing common programming enviroments <br>
 
 <div align="center">
